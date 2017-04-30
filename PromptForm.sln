@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromptForm", "PromptForm.csproj", "{D228202F-9379-4016-A1EC-2DA7A91452EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromptFormTest", "..\PromptFormTest\PromptFormTest.csproj", "{1C489672-D178-4DFB-AD38-23C7F5130136}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D228202F-9379-4016-A1EC-2DA7A91452EF}.Debug|x86.ActiveCfg = Debug|x86
+		{D228202F-9379-4016-A1EC-2DA7A91452EF}.Debug|x86.Build.0 = Debug|x86
+		{D228202F-9379-4016-A1EC-2DA7A91452EF}.Release|x86.ActiveCfg = Release|x86
+		{D228202F-9379-4016-A1EC-2DA7A91452EF}.Release|x86.Build.0 = Release|x86
+		{1C489672-D178-4DFB-AD38-23C7F5130136}.Debug|x86.ActiveCfg = Debug|x86
+		{1C489672-D178-4DFB-AD38-23C7F5130136}.Debug|x86.Build.0 = Debug|x86
+		{1C489672-D178-4DFB-AD38-23C7F5130136}.Release|x86.ActiveCfg = Release|x86
+		{1C489672-D178-4DFB-AD38-23C7F5130136}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
